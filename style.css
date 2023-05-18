@@ -1,0 +1,31 @@
+body {
+  background-image: url(./img/image1.jpg);
+  background-repeat: no-repeat;
+  width: auto;
+  padding: auto;
+  width: 100%;
+}
+
+strong {
+    color: green;
+}
+
+.container-fluid {
+    color: red;
+}
+
+.btn-primary {
+    background-color: blue;
+}
+
+.btn-secondary {
+    background-color: silver;
+}
+
+.btn-primary {
+    color: blanchedalmond;
+}
+
+.modal-footer {
+    background-color: black;
+}
